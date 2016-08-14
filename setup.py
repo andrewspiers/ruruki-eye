@@ -49,7 +49,7 @@ auto_version_setup(
     },
     install_requires=[
         'ruruki',
-        'flask>=0.10.1,<0.11',
+        'flask>=0.11.1,<0.12',
         'flask-cors>=2.1.2,<3.0.0'
     ],
 )
